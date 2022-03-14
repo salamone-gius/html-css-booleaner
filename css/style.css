@@ -24,3 +24,33 @@ body {
 .smalltext {
     font-size: x-small;
 }
+
+span {
+    background-color: yellow;
+}
+
+p {
+    text-align: justify;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+}
+
+.mezza {
+    width: 50%;
+}
+
+.mezzadimezza {
+    width: 25%;
+}
+
+thead {
+    color: white;
+    background-color: deepskyblue;
+}
+
+.bg-blue {
+    background-color: powderblue;
+}
