@@ -54,3 +54,29 @@ thead {
 .bg-blue {
     background-color: powderblue;
 }
+
+.footer-pic {
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: times;
+    font-size: 24px;
+    margin-top: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+#monitor {
+    background-image: url("../img/monitor.jpg");
+}
+
+#graph {
+    background-image: url("../img/graph.jpg");
+}
+
+.consigliati {
+    color: white;
+    text-decoration: none;
+}
