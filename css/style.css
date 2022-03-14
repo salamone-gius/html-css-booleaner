@@ -1,0 +1,26 @@
+body {
+    font-family: times;
+}
+
+#heading {
+    height: 175px;
+    background-image: url("../img/pattern.png");
+    background-color: dodgerblue;
+}
+
+.bg-logo {
+    height: 50%;
+}
+
+.greytext {
+    color: grey;
+}
+
+.link {
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+.smalltext {
+    font-size: x-small;
+}
